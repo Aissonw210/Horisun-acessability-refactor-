@@ -1,5 +1,6 @@
 ## INTRODUCTION
-You can use the [editor on GitHub](https://github.com/Aissonw210/Horisun-acessability-Refactor/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+
+Hello Everyone, My Name is Aisson Washington and this my website and today i'll be able to introduce myself and show you how I work on this digital work that I've made.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
